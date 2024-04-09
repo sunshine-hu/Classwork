@@ -1,5 +1,4 @@
-package org.example;
-
+package org.abstractfactorypattern;
 public class Circle implements Shape {
  
     @Override
